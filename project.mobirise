@@ -53,7 +53,10 @@
     ],
     "witsec-white-label": "on",
     "PWA": {
-      "enabled": true
+      "enabled": true,
+      "name": "",
+      "icon": "@PROJECT_PATH@/assets/images/hhsm4-512x512.png",
+      "themeColor": "#149dcc"
     },
     "favicon": "",
     "noImageResize": "",
